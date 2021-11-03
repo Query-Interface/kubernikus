@@ -165,3 +165,5 @@ csi:
       limits:
         cpu: 30m
         memory: 50Mi
+
+audit: false
